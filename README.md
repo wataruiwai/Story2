@@ -1,3 +1,3 @@
-#Stroy2
+##Stroy2
 
 This is a story.
